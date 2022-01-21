@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const Manager = require("./workers/Manager");
+const Manager = require("./Develop/Manager");
 
 const generateHTML = require("./html")
 
